@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.mx-1 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.input-box {
+  padding: 1em;
+  min-width: 80%;
+}
+.emoji {
+  font-size: 2rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
